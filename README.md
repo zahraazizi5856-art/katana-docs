@@ -1,4 +1,3 @@
-# Katana Documentation
 
 Welcome to Katana Documentation!
 
